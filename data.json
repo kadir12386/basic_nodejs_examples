@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 101, "title": "react", "img": "reactimage" },
+    { "id": 102, "title": "Html", "img": "htmlimage" },
+    { "id": 103, "title": "css", "img": "cssimage" },
+    { "id": 104, "title": "css", "img": "cssimage" }
+  ],
+  "users": [
+    { "id": 101, "name": "jack", "email": "jack@gamil.com" },
+    { "id": 102, "name": "John", "email": "john@gamil.com" }
+  ]
+}
